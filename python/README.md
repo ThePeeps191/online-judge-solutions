@@ -1,3 +1,3 @@
 # Python Solutions
 
-Python solutions to online-judge.org, sorted by ID number.
+Python solutions to onlinejudge.org, sorted by ID number.
