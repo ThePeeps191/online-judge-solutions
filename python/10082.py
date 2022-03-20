@@ -1,4 +1,4 @@
-# not yet finishee
+# not yet finished
 
 a, b, c, d = "`1234567890-=".upper(), 'qwertyuiop[]\\'.upper(), 'asdfghjkl;'.upper(), 'zxcvbnm,./'.upper()
 
