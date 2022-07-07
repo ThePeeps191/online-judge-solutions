@@ -3,6 +3,19 @@
 using namespace std;
 
 int main() {
-    cout << "hi";
+    int times;
+    cin >> times;
+    int a, b;
+    for(int i = 0; i < times; i++) {
+        cin >> a >> b;
+        if (a > b) {
+            cout << ">" << endl;
+        } else if (a == b) {
+            cout << "=" << endl;
+        } else {
+            cout << "<" << endl;
+        }
+    }
+
     return 0;
 }
