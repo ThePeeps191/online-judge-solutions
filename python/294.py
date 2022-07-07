@@ -14,7 +14,7 @@ for _ in range(int(input())):
     m = 0
     x = 0
     for i in range(a, b + 1):
-        result = factors(i)
+        result = factor(si)
         if len(result) > m:
             m = len(result)
             x = i
